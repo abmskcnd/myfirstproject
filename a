@@ -1,0 +1,23 @@
+Lập trình web cơ bản
+
+Mục tiêu: 
+	[+] Hiểu cấu trúc của 1 trang web
+	[+] Hiểu database của trang web là như thế nào
+	[+]	Làm quen với php và mysql
+	[+]	Biết cách dựng web trên xampp/apache
+	
+
+Bằng ngôn ngữ php và mysql xây dựng website xem tin tức có các chức năng:
+	
+	[-] Tin tức:
+		[+] Tiêu đề
+		[+] Nội dung
+		[+]	Ngày đăng
+		[+] Người đăng
+		
+	[-] Quản trị viên:
+		[+] Đăng nhập
+		[+] Có chức năng thêm, xóa, sửa bài đăng cửa mình
+		
+Bài viết sẽ được hiển thị ở trang chủ theo thứ tự bài viết mới nhất, khi bấm vào sẽ chuyển sang trang xem bài viết chi tiết. 
+Tất cả dữ liệu được lưu trong database, khi gửi nhớ kèm file database.
